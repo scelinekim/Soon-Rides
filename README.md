@@ -3,9 +3,11 @@
 <initial planning>
 
 1. Pull data from the rides Google Sheet
+    
     a. Name, phone number, driver + can you give rides, address, fellowship, comments
     
 2. Going to Geth
+    
     a. Calculate driver:non-driver ratio → determines whether to print out the warning message
     
     b. A table of:
@@ -14,6 +16,7 @@
     - driver:non-driver ratio, warning message
     
 3. Coming back from Geth
+   
     a. group people who live in the same area together
     - pre-define the matching group ranks
       e.g. VDCN's rank -> VDCN, VDC, Camino, Plaza, Mesa, Middle Earth, Mesa
