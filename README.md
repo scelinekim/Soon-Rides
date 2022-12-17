@@ -28,3 +28,7 @@
    
     c. (optional) maayyyybe send the confirmed rides through submitted phone number?
     - check the cost for messaging from web
+    
+<resources>
+
+- [How to pull data from Google Spreadsheet to HTML - n8n Blog](https://blog.n8n.io/pull-data-from-google-spreadsheet-to-html/)
